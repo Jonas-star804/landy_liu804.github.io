@@ -1,8 +1,4 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/Jonas-star804/landy_liu804.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
@@ -26,12 +22,21 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+_Email:alander804@gmail.com_
+_Research Area: Artificial Intelligence, Machine Learning, Causal Inference, Reinforcement Learning, Game Theory_
 
-### Jekyll Themes
+## Address
+School of Energy power
+Beijing University of Technology (BJUT)
+100 Pingleyuan, Chaoyang, Beijing
+Beijing China
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Jonas-star804/landy_liu804.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Education
+- 2021/07-2020/09 University of Maryland, Visiting communication. (cancelled because of COVID-19)
+- 2021/01-2021/03 The university of Cambridge (online), Winter research programme, Supervisor: Pietro Lio
+- 2018/09- 2022/06 BJUT, Department of Energy power and thermal physics
+- 2015/09-2018/06 Xinjiang Yining 3st High School
 
-### Support or Contact
+## Research
+[Comment sentiment analysis](aaaa)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
