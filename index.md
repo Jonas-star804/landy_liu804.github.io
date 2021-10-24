@@ -22,7 +22,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-_Email:alander804@gmail.com_
+_Email:alander804@gmail.com_\\
 _Research Area: Artificial Intelligence, Machine Learning, Causal Inference, Reinforcement Learning, Game Theory_
 
 ## Address
