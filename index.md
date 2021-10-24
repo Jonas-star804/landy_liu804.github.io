@@ -1,23 +1,6 @@
 
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
 ```markdown
 Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
@@ -25,6 +8,13 @@ Syntax highlighted code block
 _Email:alander804@gmail.com_
 
 _Research Area: Artificial Intelligence, Machine Learning, Causal Inference, Reinforcement Learning, Game Theory_
+
+## Award
+- School Excellent Scholarship (2020-2021); 
+- School Excellent Scholarship (2019-2020); 
+- Student Union Excellent Cadre (2018-2019);
+- American University Student Modeling Competition -S;
+- First prize of unmanned car racing competition;
 
 ## Address
 School of Energy power
