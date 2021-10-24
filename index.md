@@ -18,7 +18,7 @@ Beijing University of Technology (BJUT)
 
 Beijing China
 
-## Award
+## Awards
 - School Excellent Scholarship (2020-2021); 
 - School Excellent Scholarship (2019-2020); 
 - Student Union Excellent Cadre (2018-2019);
