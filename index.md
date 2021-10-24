@@ -9,6 +9,12 @@ _Email:alander804@gmail.com_
 
 _Research Area: Artificial Intelligence, Machine Learning, Causal Inference, Reinforcement Learning, Game Theory_
 
+## Address
+School of Energy power
+Beijing University of Technology (BJUT)
+100 Pingleyuan, Chaoyang, Beijing
+Beijing China
+
 ## Award
 - School Excellent Scholarship (2020-2021); 
 - School Excellent Scholarship (2019-2020); 
@@ -16,11 +22,17 @@ _Research Area: Artificial Intelligence, Machine Learning, Causal Inference, Rei
 - American University Student Modeling Competition -S;
 - First prize of unmanned car racing competition;
 
-## Address
-School of Energy power
-Beijing University of Technology (BJUT)
-100 Pingleyuan, Chaoyang, Beijing
-Beijing China
+## Related courses
+- linear algebra (97); 
+- probability theory (91);
+- advanced mathematics (85)
+- Deep Learning(Andrew wu);
+- Machine Learning(Stanford University)
+- Optimization Theory; 
+- Game Theory Foundation; 
+- Causal Reasoning; 
+- Reinforcement Learning Foundation; 
+- Natural Language Processing Foundation;
 
 ## Education
 - 2021/07-2020/09 University of Maryland, Visiting communication. (cancelled because of COVID-19)
