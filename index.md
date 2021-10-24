@@ -11,8 +11,11 @@ _Research Area: Artificial Intelligence, Machine Learning, Causal Inference, Rei
 
 ## Address
 School of Energy power
+
 Beijing University of Technology (BJUT)
+
 100 Pingleyuan, Chaoyang, Beijing
+
 Beijing China
 
 ## Award
@@ -41,6 +44,11 @@ Beijing China
 - 2015/09-2018/06 Xinjiang Yining 3st High School
 
 ## Research
+[Research on federated learning incentives]()
+[Intelligent question & answer robot based on the knowledge map]()
+[Study on model pruning]()
+[Deep reinforcement learning and NAS overview]()
+[Text matching in the intelligent customer service]()
 [Comment sentiment analysis](https://jonas-star804.github.io/Comment-sentiment-analysis.github.io/)
 
 ## Publications
