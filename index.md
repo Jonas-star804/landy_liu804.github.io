@@ -39,7 +39,7 @@ Beijing China
 - 2015/09-2018/06 Xinjiang Yining 3st High School
 
 ## Research
-[Comment sentiment analysis](Comment-sentiment-analysis.github.io)
+[Comment sentiment analysis](https://jonas-star804.github.io/Comment-sentiment-analysis.github.io/)
 
 ## Publications
 
