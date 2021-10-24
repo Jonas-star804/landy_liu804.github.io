@@ -52,6 +52,8 @@ Beijing China
 [Comment sentiment analysis](https://jonas-star804.github.io/Comment-sentiment-analysis.github.io/)
 
 ## Publications
+- Shunqiang Liu. 'Improved model search based on distillation framework' International Conference on Computer Vision, Image, and Deep Learning 119111U(2021)
+- 
 
 ## MISCELLANEOUS
 - Skills: Python, PyTorch, Java, Scala, Data Analysis ;
