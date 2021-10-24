@@ -1,9 +1,4 @@
-
-```markdown
-Syntax highlighted code block
-
-[Link](url) and ![Image](src)
-```
+# Resume
 
 _Email:alander804@gmail.com_
 
