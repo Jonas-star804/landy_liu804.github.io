@@ -58,3 +58,8 @@ Beijing China
 
 ## Publications
 
+## MISCELLANEOUS
+- Skills: Python, PyTorch, Java, Scala, Data Analysis ;
+- Languages: English, Chinese; 
+- Interest: Basketball, Dancing, Running;
+- Self-assessment: I have strong learning ability, good at rapid and efficient learning, excellent logical thinking ability, high sensitivity to mathematics, good at communication and cooperation, common solving problems; willing to self-study, face up to difficulties, hard-working spirit.
