@@ -52,6 +52,7 @@ Based on a knowledge graph and using real medical data, this project constructs 
 A model pruning strategy DCPAG based on sample adjustment is proposed, and innovative experiments are carried out on ImageNet, a large image classification dataset, and CifarNet. 
 
 [Deep reinforcement learning and NAS overview](https://github.com/Jonas-star804/wuziqi.github.io.git)
+
 Participate in the design of the process scheme together with the team members of the project team. Mainly is the deep reinforcement learning algorithms about DDPG and DQN, and conducts application and algorithm improvement for the Five Chess Game.
 
 [Text matching in the intelligent customer service]()
