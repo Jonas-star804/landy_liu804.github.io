@@ -39,7 +39,8 @@ Beijing China
 - 2015/09-2018/06 Xinjiang Yining 3st High School
 
 ## Research
-[Research on federated learning incentives](https://jonas-star804.github.io/causal_shapley_value.github.io/)
+[Research on federated learning incentives](https://github.com/Jonas-star804/causal_shapley_value.github.io.git)
+
 A causal federated Shapley value is proposed to solve the problem of fairness and trustworthiness in the allocation of incentive mechanisms in federal learning. It is submitted to the WWW-2022 conference.
 
 [Intelligent question & answer robot based on the knowledge map]()
