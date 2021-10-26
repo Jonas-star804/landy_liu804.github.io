@@ -55,7 +55,9 @@ A model pruning strategy DCPAG based on sample adjustment is proposed, and innov
 
 Participate in the design of the process scheme together with the team members of the project team. Mainly is the deep reinforcement learning algorithms about DDPG and DQN, and conducts application and algorithm improvement for the Five Chess Game.
 
-[Text matching in the intelligent customer service]()
+[Text matching in the intelligent customer service](https://github.com/Jonas-star804/Text_matching-.github.io.git)
+
+This project is the text matching in the intelligent customer service system. Participating in the system architecture and construction process in the group. Mainly applying the BiLstm-based representation model by using the securities customer service data to realize the text matching in the intelligent customer service system.
 
 
 
