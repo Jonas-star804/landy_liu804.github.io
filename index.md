@@ -43,7 +43,9 @@ Beijing China
 
 A causal federated Shapley value is proposed to solve the problem of fairness and trustworthiness in the allocation of incentive mechanisms in federal learning. It is submitted to the WWW-2022 conference.
 
-[Intelligent question & answer robot based on the knowledge map]()
+[Intelligent question & answer robot based on the knowledge map](https://github.com/Jonas-star804/answer-robot_based_on_the_knowledge_map.github.io.git)
+
+Based on a knowledge graph and using real medical data, this project constructs an intelligent question answering system based on a knowledge graph to realize the automatic question answering service of medical knowledge.
 
 [Study on model pruning](https://github.com/Jonas-star804/DCPAG.git)
 
