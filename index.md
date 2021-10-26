@@ -45,9 +45,12 @@ A causal federated Shapley value is proposed to solve the problem of fairness an
 
 [Intelligent question & answer robot based on the knowledge map]()
 
-[Study on model pruning]()
+[Study on model pruning](https://github.com/Jonas-star804/DCPAG.git)
+
+A model pruning strategy DCPAG based on sample adjustment is proposed, and innovative experiments are carried out on ImageNet, a large image classification dataset, and CifarNet. 
 
 [Deep reinforcement learning and NAS overview]()
+
 
 [Text matching in the intelligent customer service]()
 
