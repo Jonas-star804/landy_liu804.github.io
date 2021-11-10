@@ -4,6 +4,11 @@ _Email:alander804@gmail.com_
 
 _Research Area: Artificial Intelligence, Machine Learning, Causal Inference, Reinforcement Learning, Game Theory_
 
+_GPA: 3.62/4.00_
+
+_IELTS: 6.5 (6.5, 6.5, 6.0, 6.0)_
+
+
 ## Address
 School of Energy power
 
