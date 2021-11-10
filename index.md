@@ -6,7 +6,7 @@ _Research Area: Artificial Intelligence, Machine Learning, Causal Inference, Rei
 
 _GPA: 3.62/4.00_
 
-_IELTS: 6.5 (6.5, 6.5, 6.0, 6.0)_
+_IELTS: 6.5 (L6.5, R6.5, W6.0, S6.0)_
 
 
 ## Address
