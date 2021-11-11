@@ -69,9 +69,9 @@ This project is the text matching in the intelligent customer service system. Pa
 
 
 ## Publications
-- Shun-Qiang Liu, ... 'Incentive mechanism in federated learning' **proceedings of the 29th international conference on world wide web** - submitted
+- Shun-Qiang Liu, ... 'Incentive mechanism in federated learning' **proceedings of the 29th international conference on world wide web** - under review
 - Shun-Qiang Liu, Yan-Xia Yang, Xue-Jin Gao, Kun Cheng. 'Research on Dynamic Channel Pruning Via Activation Gates'  **Applied Intelligence** (2021) -Received the letter of intended acceptance and is being revised
-- Shun-Qiang Liu. 'Improved model search based on distillation framework' **International Conference on Computer Vision, Image, and Deep Learning** 119111U (2021)
+- Shun-Qiang Liu. 'Improved model search based on distillation framework' **International Conference on Computer Vision, Image, and Deep Learning** 119111U (2021) - accepted
 
 
 ## MISCELLANEOUS
