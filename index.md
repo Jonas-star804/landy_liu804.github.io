@@ -12,7 +12,6 @@ _IELTS: 6.5 (L6.5, R6.5, W6.0, S6.0)_
 
 
 ## Address
-School of Energy power
 
 Beijing University of Technology (BJUT)
 
