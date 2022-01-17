@@ -4,11 +4,7 @@ _Email:alander804@gmail.com_
 
 _Research Area: Artificial Intelligence, Machine Learning, Causal Inference, Reinforcement Learning, Game Theory_
 
-_GPA: 3.58/4.00_
 
-_Rank: 13/85_
-
-_IELTS: 6.5 (L6.5, R6.5, W6.0, S6.0)_
 
 
 ## Address
